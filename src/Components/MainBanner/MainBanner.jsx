@@ -15,8 +15,8 @@ const MainBanner = () => {
         items={3}
         responsive={{
           0: { items: 1 },
-          1700: { items: 2 },
-          2000: { items: 3 }
+          1800: { items: 1 },
+          2000: { items: 1 }
         }}
       >
         <div className="item item-1">
