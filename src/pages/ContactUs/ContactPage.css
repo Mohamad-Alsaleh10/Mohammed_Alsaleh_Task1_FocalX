@@ -1,0 +1,30 @@
+.contact-page .item{
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+    padding: 35px 30px;
+    background-color: #fff;
+    display: inline-block;
+    min-width: 360px;
+}
+.contact-page .phone {
+    margin-bottom: 30px;
+}
+.contact-page .item h6 {
+    font-size: 20px;
+    font-weight: 600;
+    vertical-align: middle;
+}
+.contact-page .item h6 span {
+    font-size: 15px;
+    color: #aaaaaa;
+    font-weight: 400;
+}
+
+.contact-page .phone ,.contact-page .email{
+    display: flex;
+    gap: 20px;
+}
+.ma-infodDetail{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,21 @@
+.single-property .main-content span.category {
+    background-color: #fbd9cf;
+    font-weight: 500;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #1e1e1e;
+    padding: 5px 12px;
+    display: inline-block;
+    margin-top: 40px;
+}
+.single-property .main-content h4 {
+    font-size: 25px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #eee;
+}
+
+.main-image img{
+max-width: 100%;
+}

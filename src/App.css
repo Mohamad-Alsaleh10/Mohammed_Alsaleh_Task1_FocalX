@@ -1,0 +1,8 @@
+.card-container{
+display: flex;
+gap: 10px;
+justify-content: space-between;
+text-align: center;
+margin: 10px 29px;
+flex-wrap: wrap;
+}
