@@ -22,3 +22,9 @@
     text-transform: uppercase;
     color: #fff;
 }
+@media(max-width:767px){
+    .page-heading h3 {
+        font-size: 33px;
+
+    }
+}

@@ -12,7 +12,6 @@ const VideoContent = () => {
               <img src={VideoFram} alt="" />
               <a href="https://youtube.com" target="_blank">
               <FaPlay />
-
               </a>
             </div>
           </div>

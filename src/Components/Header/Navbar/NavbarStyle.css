@@ -284,12 +284,13 @@ a {
         transform: translateX(-50%);
         width: 85%;
         overflow: hidden;
+        opacity: 0;
         transition: 0.5s  all;
-        animation: closeNav 0.5s ease-in-out forwards !important;
         border-radius: 0px 0px 30px 30px;
     }
 
     .header-area .main-nav ul.nav.open {
+        opacity: 1;
         animation: openNav 0.5s ease-in-out forwards !important;
 
     }
