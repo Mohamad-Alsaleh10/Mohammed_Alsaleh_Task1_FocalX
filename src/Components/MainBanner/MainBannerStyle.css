@@ -114,6 +114,7 @@
     width: 50%;
     margin-bottom: 0px;
 }
+
 .main-banner .item span.category em {
     font-style: normal;
     color: #f35525;
@@ -125,5 +126,10 @@
     .main-banner .owl-nav{
         padding-left: 0;
     padding-right: 0;
+    }
+    .main-banner .item h2{
+        font-size: 30px;
+        line-height: 38px;
+        width: 100%;
     }
 }
